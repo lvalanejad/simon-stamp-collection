@@ -3,4 +3,4 @@ Simon's Stamp Collection App
 
 # About
 
-Stuff About Simon's Stamps here...
+SImon has been collecting stamps for a while. He has a wide variety of stamps. 
